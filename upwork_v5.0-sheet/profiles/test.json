@@ -1,0 +1,117 @@
+{
+	"first_name": ["Emmett"],
+	"last_name": ["Johnson"],
+	"professional": "Full Time Developer",
+	"overview": "As an experienced AI Developer, I have designed and implemented intelligent systems and in various programming languages and machine learning technologies. I possess strong analytical and programming skills, enabling me to solve complex problems and develop optimized solutions. I am highly motivated and possess the necessary interpersonal skills to work collaboratively in a team environment.",
+	"country": "Canada",
+	"hourRate": "25",
+	"workXP": [
+		{
+			"company": " GFT Technologies SE",
+			"role": "React Developer",
+			"description": [
+				"My role would involve working on the front-end development of web applications using the React JavaScript library.",
+				"I would be responsible for building user interfaces, implementing interactive features, and ensuring the performance and responsiveness of the application."
+			],
+			"start": "2017.8",
+			"end": "2018.6"
+		},
+		{
+			"company": "Cancom SE",
+			"role": "Frontend Developer",
+			"description": [
+				"I would be responsible for designing and implementing the user interface, ensuring a seamless and visually appealing experience for users. Backend Developer",
+				"My role would involve working on the client-side development of web applications."
+			],
+			"start": "2018.7",
+			"end": "2019.3"
+		},
+		{
+			"company": "Sybit GmbH",
+			"role": "Backend Developer",
+			"description": [
+				"My role would involve working on the server-side development of the company's software or website.",
+				"I would be responsible for designing, building, and maintaining the logic and functionality that powers the application."
+			],
+			"start": "2019.4",
+			"end": "2021.7"
+		},
+		{
+			"company": "Sybit GmbH",
+			"role": "Full Stack Developer",
+			"description": [
+				"My primary responsibility would be to design, develop, and maintain software applications that run on both the front-end and back-end.",
+				"This includes working with various programming languages, frameworks, and tools to build robust and scalable applications."
+			],
+			"start": "2021.8",
+			"end": "2022.6"
+		},
+		{
+			"company": "SUSE",
+			"role": "Full Stack Developer",
+			"description": [
+				"My important role is to design and develop robust web applications, ensuring seamless functionality and user experience.",
+				"I am responsible for both front-end and back-end development, collaborating with cross-functional teams to deliver high-quality software solutions."
+			],
+			"start": "2022.7",
+			"end": "2023.2"
+		}
+	],
+	"education": [
+		{
+			"university": "University of Belgrade",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2014",
+			"end": "2017"
+		}
+	],
+	"languages": [],
+	"skills": [
+        "React",
+        "Next.js",
+        "Web Development",
+        "Angular",
+        "Tailwind CSS",
+        "PHP",
+        "Node.js",
+        "Laravel",
+        "MySQL",
+        "MongoDB",
+        "WordPress",
+        "ChatGPT API Integration",
+        "Responsive Design",
+        "Amazon Web Services",
+        "API Integration"
+	],
+	"services": [
+        "Desktop Application Development",
+				"Web Development",
+        "Web & Mobile Design",
+        "Ecommerce Development",
+        "Mobile Development",
+				"Photography",
+				"Database Management & Administration",
+				"Network & System Administration"
+	],
+	"photo_others": {		
+		"birthday": "1997-05-22",
+		"country" : "Canada",
+		"city": "Belgrade",
+		"street": "23 Makenzieva",
+		"zipcode": "11000",
+		"phone": "56494431",
+		"avatar":["Me.jpg"]
+	},
+	"birthday": "1996-08-29",
+	"street": "23 Makenzieva",
+	"zipcode": "11000",
+	"city": "Belgrade",
+	"location": "Serbia",
+	"phone": "56789764",
+	"avatar": ["Me.jpg"],
+	"postal": "11000",
+	"answer": "uzumaki",
+	"agency": "Solo Dev",
+	"resume": "1.pdf"
+}
